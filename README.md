@@ -324,3 +324,6 @@ or in the Python REPL before writing out custom classes.
 - [HTTP methods - Mozilla](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods)
 - [requests](https://requests.readthedocs.io/en/latest/)
 - [Python JSON](https://docs.python.org/3/library/json.html)
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
